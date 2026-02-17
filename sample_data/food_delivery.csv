@@ -1,0 +1,11 @@
+Date,Region,Product,Category,Quantity,Price
+2025-03-01,North,Pizza,Food,3,400
+2025-03-02,South,Burger,Food,2,250
+2025-03-03,West,Pasta,Food,1,350
+2025-03-04,East,Sandwich,Food,4,150
+2025-03-05,North,Fries,Food,5,120
+2025-03-06,South,Wrap,Food,2,220
+2025-03-07,West,Tacos,Food,3,300
+2025-03-08,East,Salad,Food,2,180
+2025-03-09,North,Noodles,Food,4,200
+2025-03-10,South,Dessert,Food,3,250

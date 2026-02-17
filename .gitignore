@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Streamlit
+.streamlit/
+
+# Database
+*.db
+
+# Data uploads
+data/uploaded_sales.csv
+
+# OS
+.DS_Store
+Thumbs.db

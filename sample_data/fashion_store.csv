@@ -1,0 +1,6 @@
+OrderID,Date,Region,Product,Category,Quantity,Price
+2001,2025-02-01,North,T-Shirt,Clothing,4,800
+2002,2025-02-02,South,Jeans,Clothing,2,2000
+2003,2025-02-03,West,Shoes,Footwear,1,3500
+2004,2025-02-04,East,Jacket,Clothing,1,5000
+2005,2025-02-05,North,Sneakers,Footwear,2,4000
