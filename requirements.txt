@@ -4,3 +4,8 @@ numpy
 matplotlib
 seaborn
 plotly
+scikit-learn
+scipy
+sqlalchemy
+python-dateutil
+pillow
