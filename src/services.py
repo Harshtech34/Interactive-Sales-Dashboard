@@ -1,15 +1,11 @@
 # src/services.py
 import pandas as pd
-from sqlalchemy import text
-from src.db import engine
+
 from datetime import datetime, timedelta
 from sklearn.cluster import KMeans
 
-def read_sales_df(query=None):
-    if query is None:
-        query = "SELECT * FROM sales"
-    with engine.connect() as conn:
-        df = pd.read_sql_query(text(query), conn, parse_dates=["Date"])
+def read_sales_df():
+    df = pd.read_csv("sales.csv", parse_dates=["Date"])
     return df
 
 def kpis_for_period(df):
